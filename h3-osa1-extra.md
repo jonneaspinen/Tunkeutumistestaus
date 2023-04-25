@@ -1,3 +1,5 @@
+### Raportti videosta | [IppSec - HackTheBox - Shoppy](https://www.youtube.com/watch?v=AJc53DUdt1M)
+
 - IppSec lähti videossa murtautumaan kohteeseen aloittaen komennolla
 
 ```sudo nmap -sC -sV -oA nmap/shoppy <ip>```
